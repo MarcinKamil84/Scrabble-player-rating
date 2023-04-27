@@ -8,4 +8,4 @@ Placed: 118/301
 
 ---
 
-turns.csv not included due to size limitations.
+turns.csv and models directory not included due to size limitations.
